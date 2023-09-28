@@ -3,4 +3,7 @@
   <groupId>br.com.correios</groupId>
   <artifactId>correios.ui</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  
+  </dependencies>
 </project>
